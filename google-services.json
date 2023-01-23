@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316107735544",
+    "project_id": "trood-movies",
+    "storage_bucket": "trood-movies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316107735544:android:ffda1ea4b3fc688e02160d",
+        "android_client_info": {
+          "package_name": "com.Trood.troodApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316107735544-sg9mfshu7lk4ka96m14n99omqhhnhdf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPMyApXqq_0eb7fTb33fRkpelgctuxA0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316107735544-sg9mfshu7lk4ka96m14n99omqhhnhdf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
