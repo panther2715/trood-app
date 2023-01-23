@@ -15,12 +15,11 @@ import 'package:youtube_player_flutter/youtube_player_flutter.dart';
 
  
 
-void main() {
-
- 
+ void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp();
   runApp(const MyApp());
 }
-
 
 
 
